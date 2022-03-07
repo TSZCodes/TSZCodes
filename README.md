@@ -1,5 +1,10 @@
-### Hi there 👋
+Beans.
+<br>
+hi idk what am doing here but i am here and am
+quite ✨dumb✨ at programming
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=TSZCodes&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TSZCodes&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TSZCodes/TSZCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
